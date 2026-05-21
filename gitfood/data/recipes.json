@@ -1,0 +1,85 @@
+[
+  {
+    "id": "sample-1",
+    "title": "Classic Southern Gumbo",
+    "category": "MainDish",
+    "tags": ["Cajun", "Seafood"],
+    "servings": 8,
+    "date": "2025-12-15",
+    "description": "A rich, dark roux-based gumbo with andouille sausage, shrimp, and okra. Comfort food at its finest.",
+    "ingredients": [
+      "1 cup all-purpose flour",
+      "1 cup vegetable oil",
+      "1 onion, diced",
+      "3 stalks celery, diced",
+      "1 bell pepper, diced",
+      "4 garlic cloves, minced",
+      "1 lb andouille sausage, sliced",
+      "1 lb shrimp, peeled",
+      "2 cups okra, sliced",
+      "8 cups chicken stock",
+      "2 tsp Cajun seasoning",
+      "Salt and pepper to taste"
+    ],
+    "instructions": [
+      "Whisk flour and oil over medium heat for 30–45 minutes until the roux turns chocolate brown.",
+      "Add onion, celery, and bell pepper; cook until soft, about 5 minutes.",
+      "Add garlic and sausage; cook 3 minutes.",
+      "Pour in stock, bring to a boil, then reduce and simmer 45 minutes.",
+      "Add okra and shrimp; cook 8 minutes until shrimp are pink.",
+      "Season and serve over white rice."
+    ],
+    "notes": "The darker the roux, the richer the flavor — don't rush it."
+  },
+  {
+    "id": "sample-2",
+    "title": "Pimento Cheese",
+    "category": "Appetizer",
+    "tags": ["American", "Snack"],
+    "servings": 8,
+    "date": "2024-12-27",
+    "description": "Rich, creamy, and just a little spicy. The quintessential Southern snack for holidays and gatherings.",
+    "ingredients": [
+      "2 cups sharp cheddar, shredded",
+      "8 oz cream cheese, softened",
+      "½ cup Duke's mayo",
+      "4 oz pimentos, drained",
+      "1 tsp cayenne pepper",
+      "Salt to taste"
+    ],
+    "instructions": [
+      "Combine all ingredients in a bowl.",
+      "Mix until creamy and well combined.",
+      "Refrigerate at least 1 hour.",
+      "Serve with crackers, celery, or bread."
+    ],
+    "notes": ""
+  },
+  {
+    "id": "sample-3",
+    "title": "Sweet Potato Casserole",
+    "category": "SideDish",
+    "tags": ["American", "Holiday"],
+    "servings": 10,
+    "date": "2024-11-28",
+    "description": "A Thanksgiving staple — sweet, buttery, topped with a pecan streusel that makes it almost count as dessert.",
+    "ingredients": [
+      "3 cups mashed sweet potatoes",
+      "½ cup sugar",
+      "2 eggs",
+      "½ tsp salt",
+      "4 tbsp butter, melted",
+      "½ cup milk",
+      "1 tsp vanilla",
+      "Topping: 1 cup brown sugar, ⅓ cup flour, ⅓ cup butter, 1 cup chopped pecans"
+    ],
+    "instructions": [
+      "Preheat oven to 325°F.",
+      "Mix sweet potatoes, sugar, eggs, salt, butter, milk, and vanilla.",
+      "Pour into a buttered casserole dish.",
+      "Combine topping ingredients and spread over sweet potato mixture.",
+      "Bake 30 minutes until topping is browned and set."
+    ],
+    "notes": "Can be prepared a day ahead and refrigerated before baking."
+  }
+]
